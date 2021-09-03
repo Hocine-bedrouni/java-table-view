@@ -1,0 +1,6 @@
+org/afpa/Main.java
+ org.afpa.Main
+org/afpa/model/Client.java
+ org.afpa.model.Client
+org/afpa/gui/TableviewController.java
+ org.afpa.gui.TableviewController
